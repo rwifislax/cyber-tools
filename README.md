@@ -6,5 +6,6 @@ Some Useful Tools for Cybersecurity enthusiasts. I built these tools to customiz
 - SSH Bruteforcer
 - Port Scanner
 
-# Improvements
+# Features
 - Scanner has been proven to scan the 65535 ports of a machine faster than nmap. 
+- The directory listing can be modified to find directories that return any HTTP code, like forbidden directories (403), redirections (302), etc.
