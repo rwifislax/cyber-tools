@@ -5,6 +5,7 @@ Some Useful Tools for Cybersecurity enthusiasts. I built these tools to customiz
 - Directory listing
 - SSH Bruteforcer
 - Port Scanner
+- wifi password extracter for Linux (Raspbian 10 tested)
 
 # Features
 - Scanner has been proven to scan the 65535 ports of a machine faster than nmap. 
